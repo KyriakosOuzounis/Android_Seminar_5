@@ -23,5 +23,6 @@ public class SecondActivity extends AppCompatActivity {
         ed_name_2.setText(ed_strname_2);
         ed_lastname_2.setText(ed_strlastname_2);
         ed_email_2.setText(ed_stremail_2);
+
     }
 }
